@@ -2,7 +2,7 @@
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
 	xmlns:android   = "http://schemas.android.com/apk/res/android"
-        id          = "org.mitre.TicTacToe"
+        id          = "edu.iupui.n300.TicTacToe"
         version     = "1.0.0" >
 
     <name>Tic Tac Toe</name>
@@ -11,7 +11,7 @@
         A tic tac toe game
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/TicTacToe" email="professorkevinforbes@gmail.com">
+    <author href="https://github.com/ProfessorKevinForbes/TicTacToe4" email="professorkevinforbes@gmail.com">
         Kevin Forbes
     </author>
 
